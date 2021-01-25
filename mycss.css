@@ -1,0 +1,250 @@
+*{
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.head1{
+    height: 300px;
+    width:75%;
+    background-color: #5e5756;
+     margin-left: 12%; 
+    align-items: center;
+   
+    
+}
+
+.head2{
+    height:40px;
+    width:100%;
+    background-color: white;
+    position: relative;
+    top:220px
+}
+
+.head3{
+  height:100px;
+  width:25%;
+  background-color: #edb705;   
+  margin-left: 35%;
+  border-radius: 10px;
+  position: relative;
+  top:-110px;
+}
+
+
+
+
+#name{
+    font-size: 52px;
+    text-align: center;   
+    position: relative;
+    top:20px;
+    left:40px
+}
+
+.head5{
+    height:40px;
+    /* text-align: center; */
+    width: 75%;
+    position: relative;
+    top:-120px;
+    left:218px;
+    box-shadow: 0 1px #b8b4a7;
+}
+
+#name2{
+       text-align: center; 
+       position: relative;
+       top:15px;   
+}
+
+.head6{
+    height: 800px;
+    width: 37%;
+    position:relative;
+    top:-130px;
+    left:218px;
+    box-shadow: 1px 0 #b8b4a7;
+    
+}
+
+#abc1{
+    padding-left: 100px;
+}
+
+#profile{
+    height: 70px;
+    width: 440px;
+    text-align: justify;
+}
+
+#wk1{
+    height: 200px;
+    width: 400px;
+    text-align: justify;
+    position: relative;
+    top: -30px;
+}
+
+#ul{
+    list-style-type: none;
+}
+
+h2{
+    color: #5e5756;
+}
+
+.center{
+    padding-left: 150px;
+}
+
+.pic{
+    /* padding-left: 30px; */
+    height: 90px;
+    width: 80px;
+    background-color: blue;
+}
+
+.head7{
+    height: 1000px;
+    width: 38%;
+    margin-left: 50%;
+    position:relative;
+     top:-952px;
+      left: -14px;
+}
+
+#abc2{
+    padding-left: 100px;
+}
+
+#wk2{
+    height: 90px;
+    width: 400px;
+    text-align: justify;
+    position: relative;
+    top: 10 px
+}
+#wk3{
+    height: 90px;
+    width: 400px;
+}
+
+.head8{
+    height:82px;
+    width:82px;
+    margin-left: 50%;
+    position: relative;
+    top:-2188px;
+    left: -90px;
+}
+
+.status{
+    height:10px;
+    width: 200px;
+    background-color: #e2e3de;
+    display:inline-block; 
+    margin-left: 130px;
+    position:absolute;
+    right:130px;
+}
+
+#javascript{
+    height:10px;
+    width: 160px;
+    background-color:#f2d813;
+}
+
+#css{
+    height:10px;
+    width: 160px;
+    background-color:#f2d813;
+}
+
+#HTML{
+    height:10px;
+    width: 140px;
+    background-color:#f2d813;
+}
+
+#Redux{
+    height:10px;
+    width: 160px;
+    background-color:#f2d813;
+}
+
+#React{
+    height:10px;
+    width: 140px;
+    background-color:#f2d813;
+}
+
+#Mongo{
+    height:10px;
+    width: 160px;
+    background-color:#f2d813;
+}
+
+#Pm{
+    height:10px;
+    width: 200px;
+    background-color:#f2d813;
+}
+
+#Recr{
+    height:10px;
+    width: 160px;
+    background-color:#f2d813;
+}
+#Bd{
+    height:10px;
+    width: 200px;
+    background-color:#f2d813;
+}
+#Edit{
+    height:10px;
+    width: 160px;
+    background-color:#f2d813;
+}
+#Fubd{
+    height:10px;
+    width: 200px;
+    background-color:#f2d813;
+}
+
+.script4{
+    position: relative;
+    top:-100px;
+    
+}
+
+#wk2{
+    height: 280px;
+    width: 400px;
+    text-align: justify;
+}
+
+#year1{
+    position: absolute;
+    right: 130px;
+}
+
+#decr1{
+    position: relative;
+    top:-20px;
+}
+
+#decr2{
+    position: relative;
+    top:20px;
+}
+
+#year2{
+    position: absolute;
+    right: 150px;
+}
+
+.abcd{
+    position:relative;
+    top:40px;
+}
